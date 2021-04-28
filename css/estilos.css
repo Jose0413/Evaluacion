@@ -38,6 +38,10 @@ body{background: url(../img/fondo.jpg);
     margin-top: 35px;
 }
 
+.separador6{
+    margin-bottom: 50px;
+}
+
 .letrascolor{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
