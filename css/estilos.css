@@ -9,6 +9,13 @@ body{background: url(../img/fondo.jpg);
 
 }
 
+.fondoverde{
+    background-color: rgb(1, 248, 1);
+    margin: 10px;
+    border: 4px solid white;
+
+}
+
 
 .fondoazul{
     background-color:rgb(142, 217, 247);
@@ -51,4 +58,15 @@ body{background: url(../img/fondo.jpg);
 .letrascolora{
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: black;
+}
+
+
+.carousel-control-prev-icon{
+    background-color: rgb(1, 248, 1);
+    border-radius: 40%;
+}
+
+.carousel-control-next-icon{
+    background-color: rgb(1, 248, 1);
+    border-radius: 40%;
 }
