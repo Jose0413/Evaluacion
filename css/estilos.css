@@ -10,7 +10,7 @@ body{background: url(../img/fondo.jpg);
 }
 
 .fondoamarillo{
-    background-color: rgb(209, 231, 15);
+    background-color: black;
     margin: 10px;
     border: 2px solid white;
     border-radius: 20%;
@@ -23,6 +23,7 @@ body{background: url(../img/fondo.jpg);
     margin: 15px;
     border: 2px dotted black;
     border-radius: 5%;
+    opacity: 0.8;
 
 }
 
@@ -62,13 +63,22 @@ body{background: url(../img/fondo.jpg);
     color: black;
 }
 
+.letrascolorb{
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: black;
+}
 
 .carousel-control-prev-icon{
-    background-color: rgb(1, 248, 1);
+    background-color:  rgb(9, 243, 114);
     border-radius: 40%;
+    
 }
 
 .carousel-control-next-icon{
-    background-color: rgb(1, 248, 1);
+    background-color: rgb(9, 243, 114);
     border-radius: 40%;
+}
+
+.opacidad{
+    opacity: 1;
 }
