@@ -1,7 +1,8 @@
-// JQUERY
-//$(document).ready(function(){
-//    $('#datosciudad').hide();
-//});
+//JQUERY
+$(document).ready(function(){
+   $('#consultaclima').hide();
+
+});
 
 // JS
 function buscar(){
@@ -31,8 +32,8 @@ function buscar(){
     $('#humedad').html(humedad);
     $('#velocidadviento').html(velocidadviento);
 
-    //$('#ciudad').val('');
-    //$('#climaconsulta').show();
+    $('#ciudad').val('');
+    $('#climaconsulta').show();
 
 }
 
