@@ -1,8 +1,3 @@
-//JQUERY
-$(document).ready(function(){
-   $('#consultaclima').hide();
-
-});
 
 // JS
 function buscar(){
@@ -31,9 +26,6 @@ function buscar(){
     $('#temperatura').html(temperatura);
     $('#humedad').html(humedad);
     $('#velocidadviento').html(velocidadviento);
-
-    $('#ciudad').val('');
-    $('#climaconsulta').show();
 
 }
 
