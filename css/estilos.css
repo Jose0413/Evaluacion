@@ -52,6 +52,10 @@ body{background: url(../img/fondo.jpg);
     margin-bottom: 50px;
 }
 
+.separador7{
+    margin-top: 30px;
+}
+
 .letrascolor{
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
