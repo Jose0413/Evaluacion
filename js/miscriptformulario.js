@@ -44,6 +44,12 @@ function validar_envio(){
         return 0;
     }
 
+    // CASILLA
+    if (document.getElementById("casilla").checked){
+        alert('Aceptar Condiciones Esta Seleccionado');
+    }
+
+
     alert("Datos Ingresados!");
     document.formulario.submit();
 }
